@@ -1,3 +1,3 @@
 # my_flutter_boilerplate
 
-Flutter boilerplat for my projects 🌂
+Flutter boilerplate for my projects 🌂
